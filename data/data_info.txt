@@ -1,0 +1,15 @@
+The data set used in  this project have been take from = https://ceb.nlm.nih.gov/repositories/tuberculosis-chest-x-ray-image-data-sets/
+
+The following de-identified image data sets of chest x-rays (CXRs) are available to the research community. 
+Both sets contain normal as well as abnormal x-rays, with the latter containing manifestations of tuberculosis. 
+
+
+Montgomery County X-ray Set: X-ray images in this data set have been acquired from the tuberculosis control program of the Department of Health and Human Services of Montgomery County, MD, USA. 
+This set contains 138 posterior-anterior x-rays, of which 80 x-rays are normal and 58 x-rays are abnormal with manifestations of tuberculosis. 
+All images are de-identified and available in DICOM format. The set covers a wide range of abnormalities, including effusions and miliary patterns. 
+The data set includes radiology readings available as a text file.
+
+
+Shenzhen Hospital X-ray Set: X-ray images in this data set have been collected by Shenzhen No.3 Hospital in Shenzhen, Guangdong providence, China. 
+The x-rays were acquired as part of the routine care at Shenzhen Hospital. The set contains images in JPEG format. 
+There are 340 normal x-rays and 275 abnormal x-rays showing various manifestations of tuberculosis
